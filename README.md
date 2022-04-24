@@ -43,4 +43,9 @@ Código base gerado via [start.sprint.io](https://start.spring.io/#!type=maven-p
 
 - fabio@computacao.ufcg.edu.br
 
+## Descrição dos laboratórios práticos realizados
 
+- [Lab01](https://docs.google.com/document/d/1A3WgJwPFdJ0mcMOIcB-fZwi9YWCu-APqbbhM-UVMht0/edit)
+- [Lab02](https://docs.google.com/document/d/197gfoQx1TLrp8E84cQoJ7TeZp5XKE5bTcYQyouOgDnc/edit)
+- [Lab03](https://docs.google.com/document/d/1S3Z7om-C7SkNgQI6rADN8p_ZVxsw6sBF1TfPcc780QE/edit)
+- [Lab04](https://docs.google.com/document/d/1E2gNASn40Y3U98hmXkI0nZp0MbDdI8CbqpGcGq3TZww/edit)
